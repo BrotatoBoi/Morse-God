@@ -1,1 +1,2 @@
-This is my [Morse-God](https://github.com/BrotatoBoi/Morse-God) project that I tried to re-write in C++, quite poorly I might add!
+# C Plus Plus Version.
+    Usage: g++ -g -o MG Morse-God.cpp && sudo chmod 777 ./MG && ./MG 
