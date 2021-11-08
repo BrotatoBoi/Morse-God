@@ -1,14 +1,5 @@
-# Morse-God
-An app for everything Morse-Code related!
+# Python Version
+    Usage: python3 Morse-God.py
 
-
-## Usage:
-  python3 MorseGod.py
-  
-## About:
-  A Command-Line app for Morse-Code related stuff.
-  * You can Translate to and from Morse.
-  * And play games that include Morse.
-
-# Note:
-   There is a lot this program can do and a bunch of bugs that I will always be trying to fix and whatnot...
+## Description:
+  This is the Python 3.9 version of my Morse-God Project.
